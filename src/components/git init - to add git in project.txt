@@ -1,0 +1,23 @@
+git init - to add git in project
+
+git add . - to add all file to git
+
+git commit -m "message" - to save the file for revert 
+
+git status - to check the status
+
+git log --oneline - To check the log of the commits to Git repository
+
+git restore --staged <filename> - to unstage file from staged for revert
+
+git restore <filename> - to get back to previous file
+
+git remote add origin <URL> - to add url to local file viewer
+
+git push -u origin master - to upload local file to repository
+
+git remote remove origin - to remove origin
+
+ git config --global user.email "stutisinghal1312@gmail.com"
+
+ git config --global user.name "stuti1312"
